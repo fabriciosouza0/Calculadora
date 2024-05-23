@@ -38,6 +38,7 @@ body {
     right: -1rem;
     border-radius: 0.5rem;
     user-select: none;
+    overflow: none:
 }
 
 .arc-reset-buttons {
