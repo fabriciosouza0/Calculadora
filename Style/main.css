@@ -37,10 +37,7 @@ body {
     padding: 1rem;
     right: -1rem;
     border-radius: 0.5rem;
-    overflow: hidden;
-	overflow-wrap: break-word;
     user-select: none;
-    overflow: none:
 }
 
 .arc-reset-buttons {
